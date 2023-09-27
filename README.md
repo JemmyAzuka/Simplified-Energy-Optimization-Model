@@ -1,9 +1,9 @@
  
-## Energy Consumption Optimization Model
+# Energy Consumption Optimization Model
 This repository contains a machine learning model and associated code for optimizing heating, cooling, and lighting systems in a building for energy efficiency while maintaining comfort. The model is designed to make predictions and recommendations based on synthetic data, taking into consideration factors such as temperature, lighting intensity, occupancy, and time-of-day.
 
 
-# Table of Contents
+## Table of Contents
 Overview
 
 Usage
